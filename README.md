@@ -12,7 +12,7 @@
   <li>Menu must close after selecting an item</li>
 </ul>
 <h2>Screenshot</h2>
-<img src="https://.png">
+<img src="https://github.com/Juliee23/portfolio-website/blob/main/websiteportfolio%20.png">
 
 <h2>Built with:</h2>
 <ul>
@@ -23,7 +23,7 @@
 
 <h2>Demo</h2>
 <ul>
-  <li><a href="https://.netlify.app/">.netlify.app</a></li>
+  <li><a href="https://websiteshow.netlify.app/">.netlify.app</a></li>
 </ul>
 
 <h2>Find Me</h2>
